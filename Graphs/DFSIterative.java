@@ -1,4 +1,4 @@
-/** This file contains the breadth first travesal algorithm which is implemented  
+/** This file contains the depth first travesal algorithm which is implemented  
 using Stack in an iterative fashion **/
 
 
