@@ -1,4 +1,4 @@
-/** Program to delete duplicates in unsorted LinkedList(without Buffer Space) **/
+/** Program to Find the Nth node of a linked list from the last **/
 
 class Node
 {
